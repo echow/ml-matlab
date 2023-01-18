@@ -34,9 +34,7 @@ Gaussian distribution follows the t-distribution when the variance
 of the Gaussian distribution is estimated.
 
 The distribution of the mean of $n$ samples has variance
-$$
-\text{Var}(\bar{x}) = \text{Var}(x)/n
-$$
+$$ \text{Var}(\bar{x}) = \text{Var}(x)/n $$
 which does not depend on the distribution of the samples.
 In our example, we use samples from a Gaussian distribution with variance 2.
 
