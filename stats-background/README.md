@@ -33,12 +33,25 @@ This example shows that the distribution of the mean of samples from a
 Gaussian distribution follows the t-distribution when the variance
 of the Gaussian distribution is estimated.
 
-The distribution of the mean of $n$ samples has variance
-```math
-\text{Var}(\bar{x}) = \text{Var}(x)/n
-```
+The distribution of the mean $\bar{x}$ of $n$ samples 
+$x_1, \ldots, x_n$ from an unknown distribution has variance
+$$\text{Var}(\bar{x}) = \text{Var}(x)/n$$
 which does not depend on the distribution of the samples.
-In our example, we use samples from a Gaussian distribution with variance 2.
+
+When the distribution is Gaussian with mean $\mu$ and variance $\sigma^2$, then 
+```math
+\frac{\bar{x} - \mu}{\sigma / \sqrt{n}} \sim N(0,1)
+```
+In our example, we use samples from a Gaussian distribution with mean 0
+and variance 2.
+
+When the variance is estimated with the unbiased sample variance, $S_n^2$,
+then the distribution of $\bar{x}$ follows a t-distribution with
+$n-1$ degrees of freedom
+```math
+\frac{\bar{x} - \mu}{S_n / \sqrt{n}} \sim t_{n-1} .
+```
+
 
 Things to try:
 
