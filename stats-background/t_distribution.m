@@ -7,7 +7,7 @@ ns = 500000;         % number of samples
 means = zeros(ns,1); % array storing the mean for each sample
 for i = 1:ns
   x = randn(n,1)*sqrt(vari);
-  S2 = var(x,0);     % unbiased estimate of standard
+  S2 = var(x,0);     % unbiased estimate of variance
   means(i) = mean(x)/sqrt(S2/n); % studentize the mean
 end
 
