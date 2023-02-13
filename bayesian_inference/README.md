@@ -1,4 +1,4 @@
-## Statistics Background
+## Bayesian Inference
 
 [**predictive_dist.m**](predictive_dist.m)
 
