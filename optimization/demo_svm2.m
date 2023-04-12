@@ -3,17 +3,17 @@ function demo_svm
 %rng(2);
 
 % generate 2-D synthetic data in two classes
-x1 = randn(20,2)-1.8;
-x2 = randn(20,2)+1.8;
+x1 = randn(20,2)-1.0;
+x2 = randn(20,2)+1.0;
 x = [x1; x2]';
 y = [-ones(20,1); ones(20,1)];
 
-[a b] = smo_simplified2(x, y, 1, 1e-6, 30);
+[a b] = smo_simplified2(x, y, 100, 1e-6, 300);
 fprintf('done minimization\n');
 
 % plot discriminant
-xx = -5:.01:5;
-yy = -5:.01:5;
+xx = -5:.05:5;
+yy = -5:.05:5;
 Z = zeros(length(yy),length(xx)); % bugfix
 for i = 1:length(xx)
 for j = 1:length(yy)

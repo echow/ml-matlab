@@ -1,7 +1,5 @@
 function demo_svm
 
-rng(1);
-
 % generate 2-D synthetic data in two classes
 x1 = randn(20,2)-1.8;
 x2 = randn(20,2)+1.8;
@@ -13,6 +11,7 @@ y = [-ones(20,1); ones(20,1)];
 % compute discriminant
 w = x*(a.*y);
 
+
 % plot points
 x = x';
 clf
@@ -23,6 +22,10 @@ plot(x(21:40,1),x(21:40,2),'rx');
 sup = find(a ~= 0);
 length(sup)
 plot(x(sup,1),x(sup,2),'ks');
+
+for s = 1:length(sup)
+  disp([x(sup(s),:) fun(a, y, x', b, x(sup(s),:)')])
+end
 
 xx = -8:0.1:6;
 yy = -b/w(2) -w(1)/w(2)*xx;
@@ -61,8 +64,11 @@ while (passes < max_passes)
   for i = 1:n
     Ei = fun(a, y, x, b, x(:,i)) - y(i);
 
+
     if ( (y(i)*Ei < -tol && a(i) < C) || ...
          (y(i)*Ei >  tol && a(i) > 0) )
+
+      disp(y(i)*Ei)
 
       % select j ~= i randomly
       temp = randperm(n);
