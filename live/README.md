@@ -17,3 +17,5 @@
 [**polyregr_ridge.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polyregr_ridge.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polyregr_ridge.mlx)
 
 [**lasso_sparsity.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lasso_sparsity.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lasso_sparsity.mlx)
+
+[**lincombo_model.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lincombo_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lincombo_model.mlx)
