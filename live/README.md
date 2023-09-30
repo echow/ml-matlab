@@ -8,6 +8,8 @@
 
 [**chi2_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/chi2_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/chi2_distribution.mlx)
 
+[**noise_variance_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/noise_variance_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/noise_variance_distribution.mlx)
+
 ## Overfitting and Regularization
 
 [**polynomial_regression.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polynomial_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polynomial_regression.mlx)
