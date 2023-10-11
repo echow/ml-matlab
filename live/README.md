@@ -25,3 +25,5 @@
 ## Bayesian inference
 
 [**bayesian_inference.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_inference.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_inference.mlx)
+
+[**predictive_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/predictive_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/predictive_distribution.mlx)
