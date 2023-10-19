@@ -30,4 +30,6 @@
 
 [**nonlinear_model.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nonlinear_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nonlinear_model.mlx)
 
+[**bayesian_simulation.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_simulation.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_simulation.mlx)
+
 [**mcmc.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/mcmc.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/mcmc.mlx)
