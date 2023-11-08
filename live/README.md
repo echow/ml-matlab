@@ -35,3 +35,7 @@
 [**mcmc.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/mcmc.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/mcmc.mlx)
 
 [**gaussian_processes.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/gaussian_processes.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/gaussian_processes.mlx)
+
+## Classification
+
+[**discriminants.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/discriminants.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/discriminants.mlx)
