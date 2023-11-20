@@ -43,3 +43,5 @@
 [**logistic_regression.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/logistic_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/logistic_regression.mlx)
 
 [**support_vector_classifiers.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_classifiers.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_classifiers.mlx)
+
+[**support_vector_machines.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_machines.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_machines.mlx)
