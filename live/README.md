@@ -1,6 +1,6 @@
 # ML-MATLAB
 
-<img src="logo.png" width="100">
+<img src="logo.png">
 
 ML-MATLAB is a collection of MATLAB live scripts that illustrate concepts in
 machine learning. They can be used in the classroom or for self-study.
@@ -28,106 +28,106 @@ buttons below.
 
 ## Statistics Background
 
-### Solving linear least squares problems and linear regression
+#### Solving linear least squares problems and linear regression
 
-[**least_squares.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/least_squares.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/least_squares.mlx)
+[least_squares.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/least_squares.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/least_squares.mlx)
 
-### Estimating the variance of a distribution
+#### Estimating the variance of a distribution
 
-[**estimate_variance.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/estimate_variance.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/estimate_variance.mlx)
+[estimate_variance.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/estimate_variance.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/estimate_variance.mlx)
 
-### Student's t-distribution
+#### Student's t-distribution
 
-[**t_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/t_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/t_distribution.mlx)
+[t_distribution.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/t_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/t_distribution.mlx)
 
-### Chi-squared distribution
+#### Chi-squared distribution
 
-[**chi2_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/chi2_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/chi2_distribution.mlx)
+[chi2_distribution.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/chi2_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/chi2_distribution.mlx)
 
-### Distribution of the noise variance
+#### Distribution of the noise variance
 
-[**noise_variance_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/noise_variance_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/noise_variance_distribution.mlx)
+[noise_variance_distribution.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/noise_variance_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/noise_variance_distribution.mlx)
 
 ## Overfitting and Regularization
 
-### Polynomial regression
+#### Polynomial regression
 
-[**polynomial_regression.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polynomial_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polynomial_regression.mlx)
+[polynomial_regression.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polynomial_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polynomial_regression.mlx)
 
-### Polynomial regression: bias and variance
+#### Polynomial regression: bias and variance
 
-[**polyregr_bias_variance.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polyregr_bias_variance.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polyregr_bias_variance.mlx)
+[polyregr_bias_variance.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polyregr_bias_variance.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polyregr_bias_variance.mlx)
 
-### Polynomial ridge regression
+#### Polynomial ridge regression
 
-[**polyregr_ridge.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polyregr_ridge.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polyregr_ridge.mlx)
+[polyregr_ridge.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/polyregr_ridge.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/polyregr_ridge.mlx)
 
-### Why does L1 regularization (LASSO) tend to give sparse solutions?
+#### Why does L1 regularization (LASSO) tend to give sparse solutions?
 
-[**lasso_sparsity.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lasso_sparsity.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lasso_sparsity.mlx)
+[lasso_sparsity.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lasso_sparsity.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lasso_sparsity.mlx)
 
-### Models that are a linear combination of basis functions
+#### Models that are a linear combination of basis functions
 
-[**lincombo_model.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lincombo_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lincombo_model.mlx)
+[lincombo_model.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lincombo_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lincombo_model.mlx)
 
 ## Bayesian Inference
 
-### Bayesian inference for estimating the mean
+#### Bayesian inference for estimating the mean
 
-[**bayesian_inference.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_inference.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_inference.mlx)
+[bayesian_inference.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_inference.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_inference.mlx)
 
-### Predictive distributions
+#### Predictive distributions
 
-[**predictive_distribution.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/predictive_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/predictive_distribution.mlx)
+[predictive_distribution.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/predictive_distribution.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/predictive_distribution.mlx)
 
-### Nonlinear models
+#### Nonlinear models
 
-[**nonlinear_model.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nonlinear_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nonlinear_model.mlx)
+[nonlinear_model.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nonlinear_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nonlinear_model.mlx)
 
-### Bayesian simulation
+#### Bayesian simulation
 
-[**bayesian_simulation.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_simulation.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_simulation.mlx)
+[bayesian_simulation.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_simulation.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_simulation.mlx)
 
-### Markov chain Monte Carlo methods
+#### Markov chain Monte Carlo methods
 
-[**mcmc.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/mcmc.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/mcmc.mlx)
+[mcmc.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/mcmc.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/mcmc.mlx)
 
-### Gaussian processes and Gaussian process regression
+#### Gaussian processes and Gaussian process regression
 
-[**gaussian_processes.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/gaussian_processes.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/gaussian_processes.mlx)
+[gaussian_processes.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/gaussian_processes.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/gaussian_processes.mlx)
 
 ## Classification
 
-### Linear and quadratic discriminants
+#### Linear and quadratic discriminants
 
-[**discriminants.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/discriminants.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/discriminants.mlx)
+[discriminants.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/discriminants.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/discriminants.mlx)
 
-### Logistic regression
+#### Logistic regression
 
-[**logistic_regression.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/logistic_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/logistic_regression.mlx)
+[logistic_regression.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/logistic_regression.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/logistic_regression.mlx)
 
-### Logistic regression with nonlinear basis functions
+#### Logistic regression with nonlinear basis functions
 
-[**logregr_basisfun.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/logregr_basisfun.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/logregr_basisfun.mlx)
+[logregr_basisfun.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/logregr_basisfun.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/logregr_basisfun.mlx)
 
-### Support vector classifiers
+#### Support vector classifiers
 
-[**support_vector_classifiers.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_classifiers.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_classifiers.mlx)
+[support_vector_classifiers.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_classifiers.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_classifiers.mlx)
 
-### Support vector machines
+#### Support vector machines
 
-[**support_vector_machines.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_machines.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_machines.mlx)
+[support_vector_machines.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/support_vector_machines.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/support_vector_machines.mlx)
 
-### Neural networks
+#### Neural networks
 
-[**neural_networks.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/neural_networks.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/neural_networks.mlx)
+[neural_networks.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/neural_networks.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/neural_networks.mlx)
 
 ## Miscellaneous and Advanced Topics
 
 #### Stochastic gradient descent
 
-[**stochastic_gradient_descent.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/stochastic_gradient_descent.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/stochastic_gradient_descent.mlx)
+[stochastic_gradient_descent.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/stochastic_gradient_descent.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/stochastic_gradient_descent.mlx)
 
-**The Nystrom low-rank approximation**
+#### The Nystrom low-rank approximation
 
-[**nystrom.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nystrom.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nystrom.mlx)
+[nystrom.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nystrom.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nystrom.mlx)
