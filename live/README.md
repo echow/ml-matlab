@@ -1,6 +1,6 @@
 # ML-MATLAB
 
-![](logo.png | width=100)
+<img src="logo.png" width="100">
 
 ML-MATLAB is a collection of MATLAB live scripts that illustrate concepts in
 machine learning. They can be used in the classroom or for self-study.
@@ -19,6 +19,11 @@ the scripts generally do not use the machine learning
 tools built into MATLAB (an exception is the script for support vector machines).
 However, some examples of MATLAB tools may be included in the future for those
 who want to do more advanced prototyping of machine learning ideas in MATLAB.
+
+Below, there are links to a web/html version of the live scripts, for your convenience.
+If you want to experiment with the live scripts in MATLAB, download
+the scripts via github, or open the script directly in MATLAB Online using the
+buttons below.
 
 
 ## Statistics Background
@@ -65,9 +70,9 @@ who want to do more advanced prototyping of machine learning ideas in MATLAB.
 
 [**lincombo_model.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/lincombo_model.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/lincombo_model.mlx)
 
-## Bayesian inference
+## Bayesian Inference
 
-### Introduction to Bayesian inference (estimating the mean of a Gaussian distribution)
+### Bayesian inference for estimating the mean
 
 [**bayesian_inference.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_inference.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_inference.mlx)
 
@@ -117,12 +122,12 @@ who want to do more advanced prototyping of machine learning ideas in MATLAB.
 
 [**neural_networks.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/neural_networks.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/neural_networks.mlx)
 
-## Miscellaneous and advanced topics
+## Miscellaneous and Advanced Topics
 
-### Stochastic gradient descent
+#### Stochastic gradient descent
 
 [**stochastic_gradient_descent.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/stochastic_gradient_descent.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/stochastic_gradient_descent.mlx)
 
-### The Nystrom low-rank approximation
+**The Nystrom low-rank approximation**
 
 [**nystrom.html**](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nystrom.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nystrom.mlx)
