@@ -25,7 +25,7 @@ If you want to experiment with the live scripts in MATLAB, download
 the scripts via github, or open the script directly in MATLAB Online using the
 buttons below.
 
-The scripts are released with the MIT license. Feel free to modify the use
+The scripts are released with the MIT license. Feel free to modify and use
 the scripts as you need, while retaining the MIT license.
 
 
@@ -91,7 +91,7 @@ the scripts as you need, while retaining the MIT license.
 
 [bayesian_simulation.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/bayesian_simulation.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/bayesian_simulation.mlx)
 
-#### Markov chain Monte Carlo methods
+#### Markov chain Monte Carlo
 
 [mcmc.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/mcmc.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/mcmc.mlx)
 
