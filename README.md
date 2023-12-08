@@ -26,7 +26,8 @@ the scripts via github, or open the script directly in MATLAB Online using the
 buttons below.
 
 The scripts are released with the MIT license. Feel free to modify and use
-the scripts as you need, while retaining the MIT license.
+the scripts as you need, while retaining the MIT license. Feedback and
+open-source contributions are welcome!
 
 
 ## Statistics Background
