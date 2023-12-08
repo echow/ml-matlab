@@ -1,6 +1,6 @@
-# ML-MATLAB
+<b style="color:#dc6d2b;font-size:72px;">ml-matlab</b>
 
-<img src="logo.png">
+<img src="assets/logo1.png">
 
 ML-MATLAB is a collection of MATLAB live scripts that illustrate concepts in
 machine learning. They can be used in the classroom or for self-study.
