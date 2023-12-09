@@ -4,7 +4,7 @@
 
 ML-MATLAB is a collection of MATLAB live scripts that illustrate concepts in
 machine learning. They can be used in the classroom or for self-study.
-These scripts were used to teach the undergraduate course *Computational
+These scripts have been used to teach the undergraduate course *Computational
 Foundations of Machine Learning* at Georgia Institute of Technology.
 
 The goals behind these scripts are:
@@ -134,6 +134,6 @@ open-source contributions are welcome!
 
 [stochastic_gradient_descent.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/stochastic_gradient_descent.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/stochastic_gradient_descent.mlx)
 
-#### The Nystrom low-rank approximation
+#### Nystrom low-rank approximation for kernel matrices
 
 [nystrom.html](https://htmlpreview.github.io/?https://github.com/echow/ml-matlab/blob/main/live/nystrom.html) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=echow/ml-matlab&file=live/nystrom.mlx)
