@@ -4,6 +4,8 @@
 
 ML-MATLAB is a collection of MATLAB live scripts that illustrate concepts in
 machine learning. They can be used in the classroom or for self-study.
+These scripts were used to teach the undergraduate course *Computational
+Foundations of Machine Learning* at Georgia Institute of Technology.
 
 The goals behind these scripts are:
 
