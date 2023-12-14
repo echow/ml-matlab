@@ -7,6 +7,11 @@ machine learning. They can be used in the classroom or for self-study.
 These scripts have been used to teach the undergraduate course *Computational
 Foundations of Machine Learning* at Georgia Institute of Technology.
 
+Each script usually ends with a section called **Taking it further** which offers some
+ideas for experimenting with the live script and learning more about the
+concepts that are illustrated. If you are a student, we encourage you
+to try out some of these ideas!
+
 The goals behind these scripts are:
 
 * Provide a way to understand statistics and machine learning concepts through
@@ -16,7 +21,7 @@ The goals behind these scripts are:
 * Show how easy it is to implement many machine learning algorithms directly in MATLAB,
   and provide a starting point for students' own implementations.
 
-Since we primarily want to see the machine learning algorithms in their barest form,
+Since we primarily want to see the machine learning algorithms in their barest forms,
 the scripts generally do not use the machine learning
 tools built into MATLAB (an exception is the script for support vector machines).
 However, some examples of MATLAB tools may be included in the future for those
