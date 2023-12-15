@@ -7,7 +7,7 @@ machine learning. They can be used in the classroom or for self-study.
 These scripts have been used to teach the undergraduate course *Computational
 Foundations of Machine Learning* at Georgia Institute of Technology.
 
-Each script usually ends with a section called **Taking it further** which offers some
+Each script usually ends with a section called "Taking it further" which offers some
 ideas for experimenting with the live script and learning more about the
 concepts that are illustrated. If you are a student, we encourage you
 to try out some of these ideas!
@@ -27,9 +27,9 @@ tools built into MATLAB (an exception is the script for support vector machines)
 However, some examples of MATLAB tools may be included in the future for those
 who want to do more advanced prototyping of machine learning ideas in MATLAB.
 
-Below, there are links to a web/html version of the live scripts, for your convenience.
+Below, there are links to a web/html versions of the live scripts, for your convenience.
 If you want to experiment with the live scripts in MATLAB, download
-the scripts via github, or open the script directly in MATLAB Online using the
+the scripts via github (in the `live` directory), or open the script directly in MATLAB Online using the
 buttons below.
 
 The scripts are released with the MIT license. Feel free to modify and use
